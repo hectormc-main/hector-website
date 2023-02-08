@@ -11,7 +11,7 @@ permalink: /classes/
 ![](/assets/img/MIT/MIT_dome_dusk.jpg)
 
 I want my work at MIT to be more than just a title and a grade.
-I want to show what the class covers and the work I suffered through.
+I want to show what the class covers and all I have accomplished.
 Not all my work has been recorded so some pages will just be synopsis of classes.
 
 ## Classes

@@ -73,13 +73,47 @@ Diverge is thinking of every idea that you kinda like. Converge is where we refi
 
 [Here](https://61040-fa22.github.io/portfolio-hectormc8426/pages/assignments/3/3.html) are my converged concepts.
 
-### [Review and Refinement](https://61040-fa22.github.io/portfolio-hectormc8426/pages/assignments/4/4.html)
+### [Review and Refinement](https://61040-fa22.github.io/assignments/assignment-4)
 
 I review myself.
 I review others.
 Others review me.
 Make final-ish changes to concepts.
 
-[Here](https://61040-fa22.github.io/portfolio-hectormc8426/pages/assignments/4/4.html), you know the drill.
+[Here](https://61040-fa22.github.io/portfolio-hectormc8426/pages/assignments/4/4.html) are my reviews and adjustments.
 
 ## Implementation
+
+### [Backend](https://61040-fa22.github.io/assignments/assignment-5)
+
+This was a two-week assignment.
+One half creating/documenting RESTful APIs, [here](https://github.com/hectormc8426/Fritter/blob/main/ROUTES.md) are mine.
+The other half was actually interfacing with it via simple html and deploying to Vercel. MVP can be found [here](https://fritter-lhmxq3yg1-hectormc8426.vercel.app/).
+
+Minor reflection about this process can be found [here](https://61040-fa22.github.io/portfolio-hectormc8426/pages/assignments/5/5.html).
+
+### [Frontend](https://61040-fa22.github.io/assignments/assignment-6)
+
+Actually make it look pretty this time and do it in Vue.js! I got fairly sick during this time, so I don't have anything to show.
+
+However! There's a lot to see in our final project!
+
+## Final Project
+
+### [Inception](https://61040-fa22.github.io/assignments/assignment-p0)
+
+The best way I can describe this project is that we are to become a small start-up.
+We are to create an [authentic](https://61040-fa22.github.io/assignments/assignment-p0) app that provides some real value to the world.
+
+We chose to do crowd-sourced music knowledge.
+We wanted to prioritize community and interaction, so we add *showcases* so that people may show-off what they learned from a specific lesson.
+
+### [Final Stretch](https://61040-fa22.github.io/2-assignments.html)
+
+After we had a plan, we were to create this app much in the same way we created Fritter.
+Our team worked really well together; I'm happy I got to work with them :)
+
+Our project was called [Music Mentors](https://61040-final-project-gqhc-git-main-chanwooy.vercel.app/#/).
+Click the link to view our final product!
+
+
