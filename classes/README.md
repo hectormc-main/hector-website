@@ -19,6 +19,11 @@ Not all my work has been recorded so some pages will just be synopsis of classes
 {:.related-posts.faded}
 * [Computer Systems Engineering]{:.heading.flip-title} --- Design/security of large-scale/distributed systems.
 {:.related-posts.faded}
+* [Interactive Music Systems]{:.heading.flip-title} --- Discussion and implementation of how users interface with music
+{:.related-posts.faded}
+
+--- In Progress ---
+
 * [Software Construction]{:.heading.flip-title} --- Test-first programming and thorough documentation.
 {:.related-posts.faded}
 * [Computational Structures]{:.heading.flip-title} --- Starting at the transistor, we learn how to create a RISC-V CPU.
@@ -28,8 +33,6 @@ Not all my work has been recorded so some pages will just be synopsis of classes
 * [Design and Analysis of Algorithms]{:.heading.flip-title} --- Dynamic Programming, Algorithms, Game Theory, Complexity, etc.
 {:.related-posts.faded}
 * [Automata, Computability, and Complexity Theory]{:.heading.flip-title} --- A look into DFAs, CFGs, and Turing Machines to test the limits of computability.
-{:.related-posts.faded}
-* [Interactive Music Systems]{:.heading.flip-title} --- Discussion and implementation of how users interface with music
 {:.related-posts.faded}
 
 [Software Studio]: software_studio.md
