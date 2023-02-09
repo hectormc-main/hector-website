@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Internships
 description: >
     Description goes here
 hide_description: true
