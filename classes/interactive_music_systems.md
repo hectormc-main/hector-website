@@ -53,7 +53,7 @@ You may record your playing and that can be played back to you.
 The graphics are ok.
 I could not get the circle-sine wave to close properly and that will forever stain this PSet : (
 
-### [PSet 4 - MIDI Player and the Axe](https://www.youtube.com/watch?v=APhUTjueD68)
+### [PSet 4 - Arpeggiator and the Axe](https://www.youtube.com/watch?v=APhUTjueD68)
 
 [The Axe](https://www.youtube.com/watch?v=XzttQw6xbEE) is Harmonix's first piece of commercial software.
 The central gimmick is this field tha plays music based on where your mouse is.
