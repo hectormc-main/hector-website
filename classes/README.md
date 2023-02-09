@@ -17,7 +17,10 @@ Not all my work has been recorded so some pages will just be synopsis of classes
 ## Classes
 * [Software Studio]{:.heading.flip-title} --- Thoughtful and comprehensive **design**. Intro to Node.js
 {:.related-posts.faded}
+* [Computer Systems Engineering]{:.heading.flip-title} --- Design/security of large-scale/distributed systems.
+{:.related-posts.faded}
 
 
 
 [Software Studio]: software_studio.md
+[Computer Systems Engineering]: computer_systems_engineering.md
