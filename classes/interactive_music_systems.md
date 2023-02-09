@@ -101,6 +101,8 @@ For this reason, it is my second favorite PSet.
 Video coming soon.
 {:.note}
 
+![](/assets/img/classes/flicker.jpeg)
+
 I recently played [Before Your Eyes](https://store.steampowered.com/app/1082430/Before_Your_Eyes/).
 A game in which time moves forward when you blinking.
 
