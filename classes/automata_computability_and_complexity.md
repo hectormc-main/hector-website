@@ -7,4 +7,12 @@ hide_description: false
 sitemap: false
 ---
 
-To be filled
+0. unordered list to be replaced by Hydejack Table Of Contents 
+{:toc}
+
+## Cheat Sheet
+
+This section is to be filled but I wanted to provide my cheat sheet for the class which covers just about everything in the class.
+
+{% pdf "/assets/pdf/6_045_Cheat_Sheet.pdf" %}
+

@@ -21,6 +21,8 @@ Not all my work has been recorded so some pages will just be synopsis of classes
 {:.related-posts.faded}
 * [Interactive Music Systems]{:.heading.flip-title} --- Discussion and implementation of how users interface with music
 {:.related-posts.faded}
+* [Design and Analysis of Algorithms]{:.heading.flip-title} --- Dynamic Programming, Algorithms, Game Theory, Complexity, etc.
+{:.related-posts.faded}
 
 --- In Progress ---
 
@@ -29,8 +31,6 @@ Not all my work has been recorded so some pages will just be synopsis of classes
 * [Computational Structures]{:.heading.flip-title} --- Starting at the transistor, we learn how to create a RISC-V CPU.
 {:.related-posts.faded}
 * [Introduction to Machine Learning]{:.heading.flip-title} --- Reinforcement Learning, Neural Networks, etc.
-{:.related-posts.faded}
-* [Design and Analysis of Algorithms]{:.heading.flip-title} --- Dynamic Programming, Algorithms, Game Theory, Complexity, etc.
 {:.related-posts.faded}
 * [Automata, Computability, and Complexity Theory]{:.heading.flip-title} --- A look into DFAs, CFGs, and Turing Machines to test the limits of computability.
 {:.related-posts.faded}
