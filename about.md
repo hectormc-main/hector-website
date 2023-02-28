@@ -41,20 +41,29 @@ My mom was always working 1-2 waitressing jobs and my dad did construction from 
 
 I sometimes joke that I raised myself but that's kinda true.
 Despite growing up in a spanish household, I learned english first from all my TV time.
-I lack many values/biases/cultural-views of my parents as we grew so far apart.
+I lack many values/biases/cultural-views of my parents as I grew up without them.
 I get most of mine from my own philosophical thoughts of how to be a good human and my overactive empathy.
 Reinforced by the introduction of the internet when I was 12;
 I wanted to learn more about why people feel the way they do about their beliefs.
 I credit this with my aggressive open-minded approach.
 
-I struggled a socially - probably as a result of my isolation.
-Made few acquaintances but like 0 friends until high school.
+In general, I try my best to be conscientious of all people around me.
+I want to be considerate and kind to all.
+Everyone deserves to be heard.
+Make sure everyone is happy; that is what makes me happy.
+
+I think I developed this in reaction to being so alone.
+Maybe someone would like me enough to be my friend if I was nothing but a net positive for them.
+
+Despite my adaptations, I struggled socially.
+Probably because I didn't have much of a personality.
+Made few acquaintances here and there but like 0 friends until high school.
 There someone invited me to their house - my first time - and actually interact with people outside of school.
 It was nice.
 I miss those days.
 
 ## MIT - The first time
-Content Warning: there as some heavy thoughts in this section.
+**Content Warning**: there as some heavy thoughts in this section.
 {:.note}
 
 I miraculously got into MIT.
@@ -66,8 +75,9 @@ I went to MIT hopeful I can become a new person, and.... I was a nervous wreck.
 I socialized a bit with my floor, but I could feel social groups forming and me disjoint from all.
 More and more I would stick to my room and do whatever I could to stay in.
 
-I did the work. Passed all my classes for a year (except one).
-Come sophomore year. I was afraid to do work.
+I did do decently well at school.
+I passed all my of my freshmen classes (except one that I neglected).
+However, come sophomore year, I was afraid of everything.
 
 The imposter syndrome was suffocating.
 I was not worthy of being there.
@@ -76,24 +86,30 @@ I'm a waste of space for taking this opportunity away from someone else.
 People don't deserve to look at me; I do nothing but worsen their day.
 The world is a better/happier place if no one interacts with me.
 
-I'm happy I don't believe in the afterlife.
-This is all I have.
+I remember being happy I don't believe in the afterlife.
+This life is all I have.
 Even if it's nothing, it's better than the void.
 
 I didn't go to a single class nor turn in a single assignment.
 I was too ashamed to leave my dorm.
 
-Thankfully, someone who was very kind to me for some reason told me to go to MIT and ask for a medical leave.
+Thankfully, someone who was very kind to me - for some reason - told me to go to MIT and ask for a medical leave.
 She told me I was suffering from severe social anxiety and depression; MIT medical confirmed and added [agoraphobia](https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987).
 
 I got my leave and had that semester wiped from my record.
 I left for Pasadena at the end of November.
 
+That kind person, Lisa, who told me to go to medical.
+She took me on a night out the night before I left MIT.
+That was a really fun night.
+I cherish that day a lot.
+A bright spot in a sea of despair.
+
 ## Medical Leave
 
 My parents - now mom and stepdad - never really found out too much about why I left.
 In fact, it took them a few months to realize I didn't even finish my sophomore fall semester.
-They never really questioned me about it, and I never opened up to them about it.
+They never really questioned me about it, and I never opened up to them either.
 
 I didn't really open up to anyone, actually.
 I had no one to open up *to*.
@@ -131,7 +147,7 @@ Last week.
 Wipe it all away.
 Imagine sitting in a room for an entire day.
 Waiting until you hear no one in the hallway so you can go to the restroom.
-Hearing your stepdad complain to my mom that she "should not worry about their finances as her problem was over there";
+Hearing your stepdad complain to your mom that she "should not worry about their finances as her problem was over there";
 I know he was gesturing to me.
 Filling every waking moment with vapid entertainment so that your *bad thoughts* don't return.
 
