@@ -7,13 +7,19 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lover of psychology, math, and music.
-    I have come to be known as Hector.
+  about:
+    As I've been searching for jobs, I find myself attracted to those that focus on education.
+    I think about my future and I see myself helping less fortunate children get the education they *want*.
+    I say *want* as I grew up as one of them.
+    I always wanted to have a tutor, to go to a summer camp, to learn more than what was provided.
+    But I felt it out of our pockets' reach.
+    This does not need to be the case and I want nothing more than to lend a helping hand.
+    |
+    Beyond education, I also share a fondness for psychology, math, and music.
     I have just graduated from MIT with a bachelor's in Computer Science and Engineering.
-    I am so excited to the future.
     I have been dreaming of this day for so long that's it's strange that it has finally come.
     Though it comes with a tinge of sadness that academia is behind me, I look forward towards my first steps into the real world!
+    
 
   # This photo will be used in the about section
   picture:

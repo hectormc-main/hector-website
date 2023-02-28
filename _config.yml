@@ -25,11 +25,10 @@ title:                 Hector M. Carrillo
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Hector Carrillo's website. A short portfolio of classes and internships I've taken part of.
 
 # A shorter description for the sidebar.
-tagline:               Bachelor's of Computer Science and Engineering, Minor in Mathematics
+tagline:               Bachelor's of Computer Science and Engineering, Minor in Mathematics.
 
 # A list of keywords for your blog
 keywords:              []
